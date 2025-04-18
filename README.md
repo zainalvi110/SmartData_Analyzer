@@ -23,7 +23,7 @@ A productivity tool designed for data analysts, engineers, and teams who want to
 - 🌗 Animated **Light/Dark mode** UI
 - ⚡ Instant download of professional reports
 
-### ⚠️ Note: Some features like animations, theme toggles, and PDF previews may not appear properly in GitHub previews or streamlit. For full functionality, run the app locally using the instructions above.
+### ⚠️ Note: Some features like animations, theme toggles, and PDF previews may not appear properly in GitHub previews or streamlit. For full functionality, run the app locally using the instructions below.
 
 ---
 
